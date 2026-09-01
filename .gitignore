@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BuildVersion/RhythmShooter-Prototype.zip
+BuildVersion/Windows/Rhythm_FPS/Binaries/Win64/Rhythm_FPS.pdb
+BuildVersion/Windows/Rhythm_FPS/Content/Paks/Rhythm_FPS-Windows.ucas
